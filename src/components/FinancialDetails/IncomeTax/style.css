@@ -1,0 +1,33 @@
+.list {
+    padding: 15px;
+}
+
+.paper {
+    border-radius: 2%;
+    border: 1px solid #fff;
+    /* box-shadow: 1px 1px 3px #aaaaaa; */
+}
+
+.block1 {
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.block2 {
+    width: 100px;
+    height: 30px; 
+    padding: 10px;
+    margin-right: 20px; 
+    border-radius: 5px;
+    background-color: #e9f6fe; 
+}
+
+.block3 {
+    width: 80px;
+    height: 30px;
+    padding: 10px 15px;
+    margin-right: 20px; 
+    border-radius: 5px;
+    background-color: #e9f6fe;
+}

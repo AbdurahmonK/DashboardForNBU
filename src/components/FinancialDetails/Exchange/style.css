@@ -1,0 +1,26 @@
+.list {
+    padding: 20px;
+}
+
+.paper {
+    border-radius: 2%;
+    border: 1px solid #fff;
+    /* box-shadow: 1px 1px 3px #aaaaaa; */
+}
+
+.container {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icon1 {
+    color: #00c86f;
+    transform: rotate(45deg);
+}
+
+.icon2 {
+    color: #ff8989;
+    transform: rotate(45deg);
+}
